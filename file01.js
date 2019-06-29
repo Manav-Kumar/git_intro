@@ -4,3 +4,5 @@ function greet(name)
 }
 
 greet('manav');
+
+console.log("Hey! Guys what's up")
