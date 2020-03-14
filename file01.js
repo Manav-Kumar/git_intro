@@ -4,6 +4,9 @@ console.log('Yeah one more line')
 
 function fullname(firstname,lastname)
 {
+    console.log('Knock knock knock ' + name)
+    console.log('Knock knock knock ' + name)
+    console.log('Knock knock knock ' + name)
     console.log(firstname + ' ' + lastname)
 }
 
